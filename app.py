@@ -1,7 +1,16 @@
-import streamlit as st
+# from hello_streamlit import hello_streamlit
 
-# 첫 번째 Streamlit 앱
+# hello_streamlit()
 
-import streamlit as st
 
-st.write("Hello world")
+# from text_elements import text_elements
+
+# text_elements()
+
+# from input_widgets import input_widgets
+
+# input_widgets()
+
+from bmi_calculator import bmi_calculator
+
+bmi_calculator()
